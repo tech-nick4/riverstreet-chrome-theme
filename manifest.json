@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "name": "RiverStreet Official Theme",
+  "description": "Internal browser theme for RiverStreet employees.",
+  "theme": {
+    "images": {
+      "theme_ntp_background": "images/theme_rs_background.png"
+    },
+    "colors": {
+      "frame": [0, 85, 128],
+      "toolbar": [0, 130, 228]
+    },
+    "properties": {
+      "ntp_background_alignment": "center center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
